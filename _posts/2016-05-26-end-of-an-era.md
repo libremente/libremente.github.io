@@ -7,7 +7,7 @@ header-img: "img/post-bg-02.jpg"
 ---
 
 Today, while upgrading my Debian box, I discovered something was wrong (yeah, I try to always check what is going on while updating... you know... you never know :) ). Actually this is an interesting output
-'''c
+```c
 Selezionato il pacchetto firefox-esr-l10n-it non precedentemente selezionato.
 Preparativi per estrarre .../firefox-esr-l10n-it_45.1.1esr-1_all.deb...
 Estrazione di firefox-esr-l10n-it (45.1.1esr-1)...
@@ -26,13 +26,12 @@ Preparativi per estrarre .../firefox-esr_45.1.1esr-1+b1_amd64.deb...
 Rimozione di "deviazione di /usr/bin/firefox in /usr/bin/firefox.real da iceweasel"
 Viene aggiunto "deviazione di /usr/bin/firefox in /usr/bin/firefox.real da firefox-esr"
 Estrazione di firefox-esr (45.1.1esr-1+b1)...
-'''
+```
 So you may imagine how something came up to my mind... what is going on??
 
 It really looks like I am loosing some convos:
-'''
+```
 https://lwn.net/Articles/676799/
-'''
-
+```
 you should check it out. 
 
