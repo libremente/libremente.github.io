@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 _site
 node_modules
 Gemfile.lock
+=======
+_site/
+.sass-cache/
+.jekyll-metadata
+>>>>>>> 91ca0c50d62acfa8bc87cdcdef990796d2006921
