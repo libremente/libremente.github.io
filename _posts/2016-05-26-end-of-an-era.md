@@ -24,3 +24,4 @@ Estrazione di firefox-esr (45.1.1esr-1+b1)...
 So you may imagine how something came up to my mind... what is going on??
 It really looks like I am loosing some [conversations](https://lwn.net/Articles/676799/) which you may check out. 
 
+Goodbye my fellow IceWeasel, you were a good friend! But no worries, GNU IceCat is still there! :)

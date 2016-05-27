@@ -8,7 +8,7 @@ header-img: "img/about-bg.jpg"
 This is who I am and what I do... oh no wait... probably I also have to write something right? Vabbè sarà per la prossima volta :)
 
 * Update:
-I like to use MarkDown... you know just open my editor wherever I have and drop some lines, then go home, plug the cable, 
+I like to use MarkDown... you know just open my editor wherever I am and drop some lines, then go home, plug the cable then: 
 
 ```
 gg (git status)
