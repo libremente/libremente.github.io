@@ -18,5 +18,5 @@ gp (git push -u origin master aaaaaaaaaah pushing to master OMG!!!)
 ```
 
 and jekyll does the rest of the job... well that's not too hard right? 
-It's actually pretty fun! That's how I do my blogging and it's just fun!
+It's actually pretty fun! That's how I do my blogging and it's cool!
 
