@@ -5,10 +5,10 @@ description: "This is what I do."
 header-img: "img/about-bg.jpg"
 ---
 
-This is who I am and what I do... oh no wait... probably I also have to write something right? Vabbè sarà per la prossima volta :)
+Some people ask me what and why.
 
-* Update:
-I like to use MarkDown... you know just open my editor wherever I am and drop some lines, then go home, plug the cable then: 
+Well, I believe it's just about opening a simple text editor (offline!), drop
+some lines and whenever a cable is available... 
 
 ```
 gg (git status)
@@ -17,4 +17,6 @@ git commit -m "some_strange_message"
 gp (git push -u origin master aaaaaaaaaah pushing to master OMG!!!)
 ```
 
-and jekyll does the rest of the job... well that's not too hard right? It's actually pretty fun!
+and jekyll does the rest of the job... well that's not too hard right? 
+It's actually pretty fun! That's how I do my blogging and it's just fun!
+
