@@ -11,7 +11,7 @@ The Apollo 11 code has been released on
 It's a lot of assembly, I had some fun in trying to understand some procedures.
 It's also cool to see some of the comments inserted like the following:
 
-```assembly
+``` assembly
 ELFCHK      TC  SMODECHK    # ** CHARLEY, COME IN HERE
 ```
 
