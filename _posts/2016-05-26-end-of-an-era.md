@@ -6,7 +6,7 @@ author:     "surF"
 header-img: "img/post-bg-02.jpg"
 ---
 
-Today, while upgrading my Debian box, I discovered something was wrong (yeah, I try to always check what is going on while updating... you know... you never know :) ). Actually this is an interesting output:
+Today, while upgrading my Debian box, I discovered something was wrong. Actually this is an interesting output:
 
 ```
 Selezionato il pacchetto firefox-esr-l10n-it non precedentemente selezionato.
