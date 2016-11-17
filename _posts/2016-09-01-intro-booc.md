@@ -8,7 +8,7 @@ header-img: "img/post-bg-02.jpg"
 
 What is a *MOOC*?
 
-MOOC stands for Massive Open Online Courseware, one of the latest trends in the
+MOOC stands for Massive Open Online Courses, one of the latest trends in the
 world of eLearning. What does that mean? 
 Basically the following:
 
