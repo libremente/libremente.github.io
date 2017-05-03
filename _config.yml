@@ -6,7 +6,7 @@ copyright_name: surF
 description: "Libre blog... for a mente Libera!"
 baseurl: ""
 url: "http://libremente.eu"
-github_username: surfingtime 
+github_username: libremente 
 email_username: surf@libremente.eu 
 
 # Build settings
