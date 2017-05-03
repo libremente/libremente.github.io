@@ -6,7 +6,7 @@ author:     "surF"
 header-img: "img/post-bg-02.jpg"
 ---
 
-Today while browsing for a new pair of hearphones I encountered this
+Today while browsing for a new pair of earphones I encountered this
 interesting behaviour of the Amazon marketplace search.<br> 
 By inserting the keyword **auricolari** the result is the following:
 <br><br>
