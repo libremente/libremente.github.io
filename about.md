@@ -40,3 +40,60 @@ on Github, that could be awesome! And if you're near, I'll definitely buy you a 
 
 To try to correct typos I run [*Aspell*](http://aspell.net) before pushing, if you don't know it please check it out!
 	
+# Contacts
+You may write me a mail @ surf [AT] libremente [DOT] eu.
+My GPG Public Key can be found on the [MIT
+Keyserver](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x3F17398BBBC0548E)
+or below:
+
+```
+-----BEGIN PGP PUBLIC KEY
+BLOCK-----
+Version: SKS 1.1.5
+Comment: Hostname: pgp.mit.edu
+
+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
+iQ==
+=RvZZ
+-----END PGP PUBLIC KEY BLOCK-----
+```
