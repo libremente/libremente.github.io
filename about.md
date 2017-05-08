@@ -11,6 +11,7 @@ Let's try to dissect it.
 > Free as in free beer, not in price (cit. RMS)
 
 * The second part, [**Mente**](https://es.wikipedia.org/wiki/Mente), comes from Italian and it means *Mind*.
+
 * The combination of the two, **libremente**, is an adverb, still in Spanish, meaning *Freely*.
             
 Probably there can't be a better name to describe me and this blog!
