@@ -3,7 +3,7 @@ layout:     post
 title:      "Iceweasel - The end of an era."
 date:       2016-05-26 00:00:00
 author:     "surF"
-header-img: "img/post-bg-02.jpg"
+header-img: "img/post-bg-fox.jpg"
 ---
 
 Today, while upgrading my Debian box, I discovered something was wrong. Actually this is an interesting output:

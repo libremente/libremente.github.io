@@ -3,7 +3,7 @@ layout:     post
 title:      "Amazon: search bug?"
 date:       2016-06-29 00:00:00
 author:     "surF"
-header-img: "img/post-bg-02.jpg"
+header-img: "img/post-bg-bug.jpg"
 ---
 
 Today while browsing for a new pair of earphones I encountered this

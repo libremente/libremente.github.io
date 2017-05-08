@@ -3,7 +3,7 @@ layout:     post
 title:      "Apollo source code"
 date:       2016-07-14 00:00:00
 author:     "surF"
-header-img: "img/post-bg-02.jpg"
+header-img: "img/post-bg-01.jpg"
 ---
 
 The Apollo 11 code has been released on
