@@ -6,9 +6,17 @@ header-img: "img/book-bg.jpg"
 ---
 
 ## Currently on the go
+### Technical
 * **The Lean Startup by [*Eric Ries*](http://theleanstartup.com)**.  
   It has been presented to me as ''a must for every wannabe startupper'' so
   I decided to give it a try.
+* **Next Generation Video Coding and Streaming by *Bing***.  
+  Technical read on HEVC and adaptive streaming techniques.
+
+### Non-technical
+* **Memorie dal sottosuolo by *Fyodor Dostoyevsky***.
+
+
 
 ## Next on the list
 * **Crossing the chasm by *Geoffrey A. Moore*.**  
