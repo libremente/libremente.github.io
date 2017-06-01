@@ -10,14 +10,17 @@ header-img: "img/book-bg.jpg"
 * **Next Generation Video Coding and Streaming by *Bing***.  
   Technical read on HEVC and adaptive streaming techniques.
 
+* **Crossing the chasm by *Geoffrey A. Moore*.**  
+  Another must, still on the shelf...
+
+* **High Performance Browser Networking by *Ilya Grigorik*.**
+  A book on how to understand and tweak performances for the web. 
+
 ### Non-technical
 * **Memorie dal sottosuolo by *Fyodor Dostoyevsky***.
 
 
-
 ## Next on the list
-* **Crossing the chasm by *Geoffrey A. Moore*.**  
-  Another must, still on the shelf...
 * **Business Model Generation by *Alex Osterwalder*.**  
   Another classic book in the startup world. 
 
