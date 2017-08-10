@@ -14,7 +14,7 @@ Let's try to dissect it.
 
 * The combination of the two, **libremente**, is an adverb, still in Spanish, meaning *Freely*.
             
-Probably there can't be a better name to describe me and this blog!
+Probably there can't be a better name to describe me and this blog.
 
 # About me 
 I am a PhD student, passionate about disruptive technologies and their
@@ -22,18 +22,19 @@ applications in the real world. I am particularly fond on learning technologies
 as you may get from the posts.
 
 As a developer, I am maintaining a set of side projects
-regarding eLearning and am involved in 
+regarding eLearning and I am involved in 
 FOSS projects like e.g. *Open edX*. 
+
 This blog is being written in *Stanford, Palo Alto, California.*
 
 # About the blog
 This blog is written using the following set of tools:
-* Text editor -> currently using vim.
-* jekyll serve for local debugging and testing.
-* Github pages for remote serving.
+* Text editor -> currently using ``vim``.
+* ``$ jekyll serve`` for local debugging and testing.
+* ``Github pages`` for remote serving.
             
 And that's about it! I just need to write some markdown and push to Github which, using [*Jekyll*](https://jekyllrb.com)
-generates the HTML. Style is written in LESS which compiles to CSS and that's it!
+generates the HTML. Style is written in LESS which compiles to CSS and that's it.
 
 # Purpose 
 Every single word written in here has to be interpreted as my own personal point of view, nothing more than that. 
@@ -43,14 +44,14 @@ the planet!
 
 # Typos
 I *hate* typos, especially if I see them in important website around the web. However, since I am not a perfect robot and, 
-most important, I am not a native English speaker, please forgive me if you see a typo around here and notify me! Or make a PR 
+most important, I am not a native English speaker, please forgive me if you see a typo around here and notify me. Or make a PR 
 on Github, that could be awesome! And if you're near, I'll definitely buy you a beer ;)
 
-To try to correct typos I run [*Aspell*](http://aspell.net) before pushing, if you don't know it please check it out!
+To try to correct typos I run [*Aspell*](http://aspell.net) before pushing, if you don't know it please check it out.
 	
 # Contacts
 You may write me a mail @ surf [AT] libremente [DOT] eu.
-My GPG Public Key can be found on the [MIT
+My **GPG Public Key** can be found on the [MIT
 Keyserver](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x3F17398BBBC0548E)
 or below:
 

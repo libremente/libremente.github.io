@@ -7,22 +7,25 @@ header-img: "img/book-bg.jpg"
 
 ## Currently on the go
 ### Technical
-* **Next Generation Video Coding and Streaming by *Bing***.  
+* **Next Generation Video Coding and Streaming by *Bing*.**
   Technical read on HEVC and adaptive streaming techniques.
-
-* **Crossing the chasm by *Geoffrey A. Moore*.**  
-  Another must, still on the shelf...
 
 * **High Performance Browser Networking by *Ilya Grigorik*.**
   A book on how to understand and tweak performances for the web. 
 
 ### Non-technical
-* **Memorie dal sottosuolo by *Fyodor Dostoyevsky***.
+* **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.**
+
+* **Sapiens by *Yuval Noah Harari* **.
 
 
 ## Next on the list
 * **Business Model Generation by *Alex Osterwalder*.**  
   Another classic book in the startup world. 
+
+* **Crossing the chasm by *Geoffrey A. Moore*.**  
+  Another must, still on the shelf...
+
 
 ## Past reads
 * **The Lean Startup by [*Eric Ries*](http://theleanstartup.com)**.  
@@ -42,5 +45,15 @@ header-img: "img/book-bg.jpg"
   Overall, it is a pleasant read, particularly indicated not only to first time
   startuppers but also for managers who want to innovate their project
   management techniques inside big corporations. 
+
+* **Il vecchio e il mare by [Ernest Hemingway]**.
+  If you have a couple of hours of spare time I invite you to immerse yourself
+  in this amazing book. So easy to read, engaging and deep at the same
+  time. I guarantee that the genius of Hemingway will capture you and throw you
+  in the populated waters around Cuba. As usual, the descriptions of everything
+  related to the phishing world are so accurate that it actually feels like
+  sailing that boat and, at some point, the struggles of the main character
+  feel real. I love how Hemingway can describe everything in such a realistic
+  way and I can appreciate this in every book. 
 
 ## Must re-read
