@@ -7,16 +7,17 @@ header-img: "img/book-bg.jpg"
 
 ## Currently on the go
 ### *Technical*
-* **Next Generation Video Coding and Streaming by *Bing*.**   
+* **Next Generation Video Coding and Streaming by *Bing*.**     
   Technical read on HEVC and adaptive streaming techniques.
 
-* **High Performance Browser Networking by *Ilya Grigorik*.**   
+* **High Performance Browser Networking by *Ilya Grigorik*.**  
   A book on how to understand and tweak performances for the web. 
 
 ### *Non-technical*
-* **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.**
+* **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.** 
 
-* **Sapiens by *Yuval Noah Harari*.**
+* **Sapiens by *Yuval Noah Harari*.**   
+  A new perspective on the history of the ''Sapiens''. 
 
 
 ## Next on the list
@@ -46,7 +47,7 @@ header-img: "img/book-bg.jpg"
   startuppers but also for managers who want to innovate their project
   management techniques inside big corporations. 
 
-* **Il vecchio e il mare by [Ernest Hemingway]**.
+* **Il vecchio e il mare by *Ernest Hemingway*.**  
   If you have a couple of hours of spare time I invite you to immerse yourself
   in this amazing book. So easy to read, engaging and deep at the same
   time. I guarantee that the genius of Hemingway will capture you and throw you
@@ -57,3 +58,4 @@ header-img: "img/book-bg.jpg"
   way and I can appreciate this in every book. 
 
 ## Must re-read
+  A lot of books, still populating the list...

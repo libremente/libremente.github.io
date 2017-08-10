@@ -50,7 +50,7 @@ on Github, that could be awesome! And if you're near, I'll definitely buy you a 
 To try to correct typos I run [*Aspell*](http://aspell.net) before pushing, if you don't know it please check it out.
 	
 # Contacts
-You may write me a mail @ surf [AT] libremente [DOT] eu.
+You may write me a mail to: [surf @ this domain]. 
 My **GPG Public Key** can be found on the [MIT
 Keyserver](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x3F17398BBBC0548E)
 or below:
