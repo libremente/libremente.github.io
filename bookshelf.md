@@ -29,6 +29,33 @@ header-img: "img/book-bg.jpg"
 
 
 ## Past reads
+* **Blockchain by [*Jeff Reed*]**.
+  Having a general background on the subject I decided to take a look at this
+  book since I am more and more interested in the ''smart contracts'' matter. 
+  This book, after introducing the concept of the *Blockchain* and the *Ledger*,
+  dives deeper in the analysis of one of such systems, called ''Ethereum'' which
+  is leveraging the Blockchain but, differently from ''Bitcoins'', makes it
+  also possible to write and use ''smart contracts''. The last part of the book
+  is dedicated to investment strategies in the
+  Ethereum sphere.
+
+  First of all, the book itself is divided into different books, so it should
+  better be called a ''collection'' of volumes and this, in my humble opinion,
+  does not facilitate the reading experience. 
+  
+  However, my problem was that I really did not enjoy reading it! It was easy to read,
+  it took me around
+  half a day to finish but when I closed it I had the feeling that I could have
+  invested my time in a better way, which is never a good feeling. It is not
+  clear to me which is the
+  exact audience the author is trying to target. For non-technical readers
+  it is too deep whilst, for the technical savvy ones, the information
+  presented are way too scarce. From a software developer point of view, I was
+  particularly interested in understanding how to exploit the potential of ''smart
+  contracts'' but the author makes a very quick overview of the subject
+  without giving any sort of deep insight. 
+
+    
 * **The Lean Startup by [*Eric Ries*](http://theleanstartup.com)**.  
   It has been presented to me as ''a must for every wannabe startupper'' so
   I decided to give it a try.
