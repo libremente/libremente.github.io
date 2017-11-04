@@ -18,7 +18,7 @@ Probably there can't be a better name to describe me and this blog.
 
 # About me 
 I am a PhD candidate, passionate about disruptive technologies and their
-applications in the real world. I am particularly fond on learning technologies
+application in the real world. I am particularly fond on learning technologies
 as you may get from the posts.
 
 As a developer, I am maintaining a set of side projects
