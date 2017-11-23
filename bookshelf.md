@@ -13,11 +13,18 @@ header-img: "img/book-bg.jpg"
 * **High Performance Browser Networking by *Ilya Grigorik*.**  
   A book on how to understand and tweak performances for the web. 
 
+* **The Art of Deception by *Kevin D. Mitnick*.**
+  A book on social engineering from the one and only. 
+
 ### *Non-technical*
 * **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.** 
 
 * **Sapiens by *Yuval Noah Harari*.**   
   A new perspective on the history of the ''Sapiens''. 
+
+* **Bar Sport by *Stefano Benni*.**
+  An Italian comedy. 
+
 
 
 ## Next on the list
