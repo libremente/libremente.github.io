@@ -16,6 +16,9 @@ header-img: "img/book-bg.jpg"
 * **The Art of Deception by *Kevin D. Mitnick*.**
   A book on social engineering from the one and only. 
 
+* **Zero to One by *Peter Thiel*.**
+  I have always wanted to give it a shot, and now it's time to do it!
+
 ### *Non-technical*
 * **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.** 
 
