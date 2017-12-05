@@ -129,7 +129,9 @@ Montoya*](https://github.com/felipemontoya) implies the definition and the
 usage of an extra Django app called `django-xblock-i18n`. This app basically
 defines a new service which has to be loaded inside the context of the XBlock
 and then it can be used. Furthermore the `xblock_i18n` tag has to be added at
-the top of the template tag to be used. 
+the top of the template tag to be used. For more extended info check the repo
+I forked which contains some more information about how to use the app in the
+README file [here](https://github.com/libremente/django-xblock-i18n).
 
 The possibility of merging the `.po` files together is always possible even if
 it is highly unrecommended due to all the possible problems that may occur
