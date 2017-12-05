@@ -32,7 +32,7 @@ header-img: "img/book-bg.jpg"
   World by *William H. McRaven*.**
   Little stories from the personal life of the Admiral during his SEAL career
   can be applied also in our everyday normal life. If you want to change the
-  world, always change by making your bed!
+  world, always start by making your bed!
 
 
 ## Next on the list
