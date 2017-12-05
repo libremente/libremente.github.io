@@ -28,6 +28,11 @@ header-img: "img/book-bg.jpg"
 * **Bar Sport by *Stefano Benni*.**
   An Italian comedy. 
 
+* **Make Your Bed: Little Things That Can Change Your Life...And Maybe the
+  World by *William H. McRaven*.**
+  Little stories from the personal life of the Admiral during his SEAL career
+  can be applied also in our everyday normal life. If you want to change the
+  world, always change by making your bed!
 
 
 ## Next on the list
