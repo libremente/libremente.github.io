@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "How to handle Open edX XBlocks localization"
-date:       2017-04-12 00:00:00
+date:       2017-12-06 00:00:00
 author:     "surF"
 header-img: "img/code-bg.jpg"
 ---
