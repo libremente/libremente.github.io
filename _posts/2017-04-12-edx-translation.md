@@ -3,18 +3,25 @@ layout:     post
 title:      "How to handle Open edX XBlocks localization"
 date:       2017-04-12 00:00:00
 author:     "surF"
-header-img: "img/post-bg-hack.jpg"
+header-img: "img/code-bg.jpg"
 ---
 
-One of the issues I had to tackle while working on the Open edX platform, as
-a member of the
-Stanford's team, was the localization of the platform's external modules, also
-called ``XBlocks``.  
+Open edX is the platform which powers MOOC websites like
+[edx.org](http://edx.org), [Stanford's Lagunita](https://lagunita.stanford.edu)
+and many other MOOC providers worldwide. 
+Since it has been released with a FOSS license, its adoption has wildly
+increased and right now millions of users worldwide are using such a platform
+for their online courses. 
+As such, the possibility to translate the interface should be a top priority
+but, unfortunately, not all the components have such a functionality out of the
+box. In fact, the platform's external modules, also called ``XBlocks``, are
+difficult to translate and this article is meant to depict all the possible
+ways to approach such a task.
 
 Localization is handled pretty well in the *edx-platform*: there are dedicated
 tools
 to handle all the [translation
-processes](https://github.com/edx/i18n-tools) and teams on Transiflex
+processes](https://github.com/edx/i18n-tools) and teams on Transifex
 which help
 translating the interfaces and the contents [[you may join them
 here]](https://www.transifex.com/open-edx/edx-platform/). 
@@ -24,11 +31,15 @@ platform, called [XBlocks](https://open.edx.org/xblocks), there are still
 issues to be faced and there
 are ongoing efforts by the edX engineers in order to solve them. 
 The existing integrated translation solution is not working at the moment of writing
-(you can see the bug [here](https://openedx.atlassian.net/browse/WL-230) ). 
+(if you are lucky you may see the bug [here](https://openedx.atlassian.net/browse/WL-230)). 
 
-In order to understand the nature of this problem, it is necessary to understand
+Some XBlocks are correctly translated like, e.g., [ORA2](https://github.com/edx/edx-ora2) or edX Proctoring.
+However, they are just isolated cases and, unfortunately, not all the XBlocks
+developers follow the translations guidelines. 
+
+In order to understand the nature of this problem it is necessary to understand
 what is the nature of an XBlock inside the Open edX structure. At the moment of
-writing, XBlocks are not Django Apps but they can be seen as standalone
+writing, XBlocks are not *Django Apps* but they can be seen as standalone
 modules. 
 In
 fact, XBlocks should be coded in an independent way with respect to the
@@ -56,12 +67,12 @@ django-admin makemessages -a
 ```
 but in Open edX there are several other ways to do this, i.e. using the
 i18n suite mentioned before. 
-Afterwards, this message files have to be located by Django in order to be
-applied.
+Afterwards, this message files have to be seen by Django in order to be
+correctly applied.
 The order of the search is the following:
 
 
-1. The directories listed in `LOCALE_PATHS` have the highest precedence, with
+1. the directories listed in `LOCALE_PATHS` have the highest precedence, with
    the ones appearing first having higher precedence than the ones appearing
    later.
 2. Then, it looks for and uses if it exists a locale directory in each of the
@@ -72,22 +83,25 @@ The order of the search is the following:
 
 So, analyzing the list we can see how number 2. is not our case since declaring
 an XBlock as a Django App is not a best practice. I have tried this and it
-works without many problems but many developers advised me that it's not best
-practice, even if Andy Armstrong, a UI Architect at edX, told me that it's not
+works without problems but many developers advised me that it's not a best
+practice, even if a UI Architect at edX, told me that it's not
 a problem (check out the thread
-[here](https://groups.google.com/forum/#!topic/openedx-translation/cLR5tZI5oqQ).
+[here](https://groups.google.com/forum/#!topic/openedx-translation/cLR5tZI5oqQ)).
+However, it seems that in the futures XBlocks will be proper Django apps and
+this can be seen in this OEP
+[here](https://open-edx-proposals.readthedocs.io/en/latest/oep-0012.html#refactor-xblocks-to-be-based-upon-django).
 
 Also, point number 3. is not so straightforward since it would mean that for
 each new XBlock installed we ought to move the translation files to that
-folder, create a new `.po` file and finally an `.mo` one. Not very handy.
+specific django folder, to create a new `.po` file and finally a `.mo` one. Not very handy.
 
-Solution number 1. might be the good one since, by explicitly telling Django
-where to look at it should be able to pick the new translations. 
+Solution number 1. might a good pick since, by explicitly telling Django
+where to look at, it should be able to pick the new translations. 
 
 I tried to implement the different solutions and they are all depicted in [this
 commit](https://github.com/libremente/edx-platform/commit/22292d5e26207eeb772778990e2f28196581030f).
 
-The following piece of code adds solution number 3. to the `lms/startup.py`
+The following piece of code adds solution number 1. to the `lms/startup.py`
 file which is invoked during startup. 
 
 ```python
@@ -128,7 +142,7 @@ Another solutions implemented by [*Felipe
 Montoya*](https://github.com/felipemontoya) implies the definition and the
 usage of an extra Django app called `django-xblock-i18n`. This app basically
 defines a new service which has to be loaded inside the context of the XBlock
-and then it can be used. Furthermore the `xblock_i18n` tag has to be added at
+and then it can be used. Furthermore, the `xblock_i18n` tag has to be added at
 the top of the template tag to be used. For more extended info check the repo
 I forked which contains some more information about how to use the app in the
 README file [here](https://github.com/libremente/django-xblock-i18n).
