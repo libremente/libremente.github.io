@@ -54,7 +54,7 @@ This usually in Django is done by using the
 ```
 django-admin makemessages -a
 ```
-but in Open edX there are several other ways to do this, like i.e. using the
+but in Open edX there are several other ways to do this, i.e. using the
 i18n suite mentioned before. 
 Afterwards, this message files have to be located by Django in order to be
 applied.
