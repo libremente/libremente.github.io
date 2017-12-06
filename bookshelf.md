@@ -5,37 +5,45 @@ description: "This is what I read."
 header-img: "img/book-bg.jpg"
 ---
 
-# My 2017 in books
+# <center>My 2017 in books</center>
 I read. I love to. A whole lot. I space from deeply technical books to
-comedies. This list will probably more useful for me to keep track of my
+comedies. This list will probably be more useful for me to keep track of my
 reading habits and the pace but if you want some hints you are free to take
 a quick look-see ;)
 
 ## Currently on the go
 ### *Technical*
 * **Next Generation Video Coding and Streaming by *Bing*.**     
+  ![Read](http://progressed.io/bar/15?title=read) 
   Technical read on HEVC and adaptive streaming techniques.
 
 * **High Performance Browser Networking by *Ilya Grigorik*.**  
+  ![Read](http://progressed.io/bar/30?title=read) 
   A book on how to understand and tweak performances for the web. 
 
 * **The Art of Deception by *Kevin D. Mitnick*.**
+  ![Read](http://progressed.io/bar/35?title=read) 
   A book on social engineering from the one and only. 
 
 * **Zero to One by *Peter Thiel*.**
+  ![Read](http://progressed.io/bar/65?title=read) 
   I have always wanted to give it a shot, and now it's time to do it!
 
 ### *Non-technical*
 * **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.** 
+  ![Read](http://progressed.io/bar/20?title=read) 
 
 * **Sapiens by *Yuval Noah Harari*.**   
+  ![Read](http://progressed.io/bar/70?title=read) 
   A new perspective on the history of the ''Sapiens''. 
 
 * **Bar Sport by *Stefano Benni*.**
+  ![Read](http://progressed.io/bar/80?title=read) 
   An Italian comedy. 
 
 * **Make Your Bed: Little Things That Can Change Your Life...And Maybe the
   World by *William H. McRaven*.**
+  ![Read](http://progressed.io/bar/90?title=read) 
   Little stories from the personal life of the Admiral during his SEAL career
   can be applied also in our everyday normal life. If you want to change the
   world, always start by making your bed!
