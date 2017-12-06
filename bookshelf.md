@@ -5,6 +5,12 @@ description: "This is what I read."
 header-img: "img/book-bg.jpg"
 ---
 
+# My 2017 in books
+I read. I love to. A whole lot. I space from deeply technical books to
+comedies. This list will probably more useful for me to keep track of my
+reading habits and the pace but if you want some hints you are free to take
+a quick look-see ;)
+
 ## Currently on the go
 ### *Technical*
 * **Next Generation Video Coding and Streaming by *Bing*.**     
