@@ -52,7 +52,7 @@ kit which does not require a running instance of Open edX installed ([see
 here](https://edx.readthedocs.io/projects/xblock-tutorial/en/latest/getting_started/setup_sdk.html))
 and makes it handy to develop new functionalities.
 This means that the developers have to follow some strict guidelines regarding
-the implementation of such blocks like e.g. the templating engine used, and this
+the implementation of such blocks like, e.g., the templating engine used, and this
 is causing some issues with the interoperability with the existing localization
 engine. 
 
@@ -83,8 +83,9 @@ The order of the search is the following:
 
 So, analyzing the list we can see how number 2. is not our case since declaring
 an XBlock as a Django App is not a best practice. I have tried this and it
-works without problems but many developers advised me that it's not a best
-practice, even if a UI Architect at edX, told me that it's not
+works without problems but many developers advised me that it's not an
+encouraged 
+practice, even if a UI Architect at edX told me that it's not
 a problem (check out the thread
 [here](https://groups.google.com/forum/#!topic/openedx-translation/cLR5tZI5oqQ)).
 However, it seems that in the futures XBlocks will be proper Django apps and
@@ -153,7 +154,7 @@ especially during upload - i.e. all the work would be lost after each upgrade.
 However, what follows is the procedure to accomplish such a task.
 For each XBlock to be localized, apply the following passages:
 
-* extract the strings to be localized from all the files like e.g. `.py` and
+* extract the strings to be localized from all the files like, e.g., `.py` and
   `.js` ones. For `python`:
 
   ```bash
