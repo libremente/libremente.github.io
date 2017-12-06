@@ -67,7 +67,7 @@ django-admin makemessages -a
 ```
 but in Open edX there are several other ways to do this, i.e. using the
 i18n suite mentioned before. 
-Afterwards, this message files have to be seen by Django in order to be
+Afterwards, these message files have to be seen by Django in order to be
 correctly applied.
 The order of the search is the following:
 
