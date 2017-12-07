@@ -41,13 +41,6 @@ a quick look-see ;)
   ![Read](http://progressed.io/bar/80?title=read) 
   An Italian comedy. 
 
-* **Make Your Bed: Little Things That Can Change Your Life...And Maybe the
-  World by *William H. McRaven*.**
-  ![Read](http://progressed.io/bar/90?title=read) 
-  Little stories from the personal life of the Admiral during his SEAL career
-  can be applied also in our everyday normal life. If you want to change the
-  world, always start by making your bed!
-
 
 ## Next on the list
 * **Business Model Generation by *Alex Osterwalder*.**  
@@ -58,6 +51,12 @@ a quick look-see ;)
 
 
 ## Past reads
+* **Make Your Bed: Little Things That Can Change Your Life...And Maybe the
+  World by *William H. McRaven*.**
+  Little stories from the personal life of the Admiral during his SEAL career
+  can be applied also in our everyday normal life. If you want to change the
+  world, always start by making your bed!
+
 * **Blockchain by [*Jeff Reed*]**.
   Having a general background on the subject I decided to take a look at this
   book since I am more and more interested in the ''smart contracts'' matter. 
