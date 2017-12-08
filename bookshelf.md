@@ -41,6 +41,10 @@ a quick look-see ;)
   ![Read](http://progressed.io/bar/80?title=read) 
   An Italian comedy. 
 
+* **Chaos Monkeys by *Antonio Garcia Martinez*.**
+  ![Read](http://progressed.io/bar/10?title=read) 
+  Looks like fun and deep at the same time. How does the *ads* world work?
+
 
 ## Next on the list
 * **Business Model Generation by *Alex Osterwalder*.**  
