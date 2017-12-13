@@ -26,6 +26,13 @@ a quick look-see ;)
   A book on social engineering from the one and only. 
 
 ### *Non-technical*
+* **The hard thing about hard things by *Ben Horowitz*.**
+  ![Read](http://progressed.io/bar/17?title=read) 
+  This books offers a new perspective on "how to handle hard things". Very very
+  fluent to read, it feels easy to empathize with the author and the reader can
+  mostly feel the pain he suffered going through the events that made him one of the
+  most influential person in the whole Valley. 
+
 * **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.** 
   ![Read](http://progressed.io/bar/20?title=read) 
 
