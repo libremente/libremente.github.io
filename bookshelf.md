@@ -25,10 +25,6 @@ a quick look-see ;)
   ![Read](http://progressed.io/bar/35?title=read) 
   A book on social engineering from the one and only. 
 
-* **Zero to One by *Peter Thiel*.**
-  ![Read](http://progressed.io/bar/65?title=read) 
-  I have always wanted to give it a shot, and now it's time to do it!
-
 ### *Non-technical*
 * **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.** 
   ![Read](http://progressed.io/bar/20?title=read) 
@@ -55,6 +51,19 @@ a quick look-see ;)
 
 
 ## Past reads
+* **Zero to One by *Peter Thiel*.**
+  Peter Thiel, one of the most interesting figures of the Valley and his book.
+  What to say. Peter stresses his vision that creating a monopoly is the only
+  way to truly succeed and be able to pay back all the stakeholders who
+  invested in the venture. I believe it's an interesting book which exposes
+  many lessons learned during his PayPal adventure and the later ones like,
+  e.g., Facebook and Palantir. I would highly recommend this book to all the
+  wannabe-founders. Easy to read, quick and full of real world examples of both
+  success cases and failures. 
+  One last remarkable point: take off your tie if you pitch to Peter, he might
+  not even listen to you!
+
+
 * **Make Your Bed: Little Things That Can Change Your Life...And Maybe the
   World by *William H. McRaven*.**
   Little stories from the personal life of the Admiral during his SEAL career
