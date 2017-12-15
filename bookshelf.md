@@ -79,7 +79,7 @@ a quick look-see ;)
   can be applied also in our everyday normal life. If you want to change the
   world, always start by making your bed!
 
-* **Blockchain by [*Jeff Reed*]**.
+* **Blockchain by *Jeff Reed* **.
   Having a general background on the subject I decided to take a look at this
   book since I am more and more interested in the ''smart contracts'' matter. 
   This book, after introducing the concept of the *Blockchain* and the *Ledger*,
