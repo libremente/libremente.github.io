@@ -33,6 +33,9 @@ a quick look-see ;)
   mostly feel the pain he suffered going through the events that made him one of the
   most influential person in the whole Valley. 
 
+* **The power of habit by *Charles Duhigg*.** 
+  ![Read](http://progressed.io/bar/9?title=read) 
+
 * **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.** 
   ![Read](http://progressed.io/bar/20?title=read) 
 
