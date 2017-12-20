@@ -34,7 +34,7 @@ a quick look-see ;)
   most influential person in the whole Valley. 
 
 * **The power of habit by *Charles Duhigg*.** 
-  ![Read](http://progressed.io/bar/9?title=read) 
+  ![Read](http://progressed.io/bar/15?title=read) 
 
 * **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.** 
   ![Read](http://progressed.io/bar/20?title=read) 
