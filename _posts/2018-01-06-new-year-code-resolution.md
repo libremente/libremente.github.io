@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Year's Code Resolution 
-date: 2015-09-09 10:38
+date: 2018-09-09 10:38
 author: "surF"
 header-img: "img/post-bg-02.jpg"
 ---
@@ -12,6 +12,8 @@ happens in the following months.
 
 So here it is...
 
+* **Refactor** my development setup. Standing desk, new monitors, new keyboard,
+  new laptop are ready to shine. 
 * **Publish** all the code I developed locally. It's a lot of code which may be
   useful for the community. I want to find some spare time to refactor it, fill it
   with documentation and make it as easy as possible to quickly see it in
