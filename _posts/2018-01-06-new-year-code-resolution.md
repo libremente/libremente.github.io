@@ -20,12 +20,13 @@ So here it is...
   action.
 * **Speed up** the development cycle. Many times I find myself working with people
   who don't know what a VM is (don't even think about `vagrant` or `docker`)
-  and I believe that seeing code written in `/var/www/` in 2018 is a avoidable
+  and I believe that seeing code written in `/var/www/` in 2018 is an avoidable
   pain. So my resolution here is to stress the use of some sort of
-  ''containers'' which make it possible to ship faster and collaborate being
+  ''container'' which make it possible to ship faster and collaborate
+  painlessly being
   able to reproduce the same environment.
 * **Learn** TDD and Dynamic Programming. This is something I started to study many
-  times but never tried in a real world use case. I believe in it, and I think
+  times but I never tried in a real world use case. I believe in it, and I think
   it may be a good deal to foster it more. 
 * **Contribute** to FOSS projects more. Which translated in polishing and pushing
   some patches I've already done for a set of programs locally and find more
@@ -33,4 +34,4 @@ So here it is...
 * **Donate** to FOSS projects. I will continue to do it as much as possible. 
 * **Read** more. My next buy will be the latest release of ''Two Scoops of Django''.
 
-Let's see what can I do in this 2018! :)
+Let's see what I can do in this 2018! :)
