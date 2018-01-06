@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Year's Code Resolution 
-date: 2018-09-09 10:38
+date: 2018-01-06 10:38
 author: "surF"
 header-img: "img/post-bg-02.jpg"
 ---
