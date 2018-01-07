@@ -18,7 +18,7 @@ a quick look-see ;)
   Technical read on HEVC and adaptive streaming techniques.
 
 * **High Performance Browser Networking by *Ilya Grigorik*.**  
-  ![Read](http://progressed.io/bar/30?title=read) 
+  ![Read](http://progressed.io/bar/40?title=read) 
   A book on how to understand and tweak performances for the web. 
 
 * **The Art of Deception by *Kevin D. Mitnick*.**
