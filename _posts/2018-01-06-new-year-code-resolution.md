@@ -22,7 +22,7 @@ So here it is...
   who don't know what a VM is (don't even think about `vagrant` or `docker`)
   and I believe that seeing code written in `/var/www/` in 2018 is an avoidable
   pain. So my resolution here is to stress the use of some sort of
-  ''container'' which make it possible to ship faster and collaborate
+  ''container'' which makes it possible to ship faster and collaborate
   painlessly being
   able to reproduce the same environment.
 * **Learn** TDD and Dynamic Programming. This is something I started to study many
