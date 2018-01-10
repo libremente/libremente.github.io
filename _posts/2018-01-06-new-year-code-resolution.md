@@ -29,8 +29,8 @@ So here it is...
 * **Learn** TDD and Dynamic Programming. This is something I started to study many
   times but I never tried in a real world use case. I believe in it, and I think
   it may be a good deal to foster it more. 
-* **Contribute** to FOSS projects more. Which translated in polishing and pushing
-  some patches I've already done for a set of programs locally and find more
+* **Contribute** to FOSS projects more. Which translates in polishing and pushing
+  some patches I've already done for a set of programs locally and in finding more
   interesting projects to contribute to. 
 * **Donate** to FOSS projects. I will continue to do it as much as possible. 
 * **Read** more. My next buy will be the latest release of ''Two Scoops of Django''.
