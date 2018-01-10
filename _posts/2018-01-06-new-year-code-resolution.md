@@ -20,7 +20,8 @@ So here it is...
   action.
 * **Speed up** the development cycle. Many times I find myself working with people
   who don't know what a VM is (don't even think about `vagrant` or `docker`)
-  and I believe that seeing code written in `/var/www/` in 2018 is an avoidable
+  and I believe that seeing code written in the local `/var/www/` in 2018 is an
+  avoidable
   pain. So my resolution here is to stress the use of some sort of
   ''container'' which makes it possible to ship faster and collaborate
   painlessly being
