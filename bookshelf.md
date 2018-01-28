@@ -5,7 +5,7 @@ description: "This is what I read."
 header-img: "img/book-bg.jpg"
 ---
 
-# <center>My 2017 in books</center>
+# <center>My 2018 in books</center>
 I read. I love to. A whole lot. I space from deeply technical books to
 comedies. This list will probably be more useful for me to keep track of my
 reading habits and the pace but if you want some hints you are free to take
@@ -53,6 +53,11 @@ a quick look-see ;)
 * **Chaos Monkeys by *Antonio Garcia Martinez*.**
   ![Read](http://progressed.io/bar/10?title=read) 
   Looks like fun and deep at the same time. How does the *ads* world work?
+
+* **I, Robot by *Isaac Asimov*.**
+  ![Read](http://progressed.io/bar/12?title=read) 
+  A must.
+
 
 
 ## Next on the list
