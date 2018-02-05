@@ -36,9 +36,6 @@ a quick look-see ;)
 * **The power of habit by *Charles Duhigg*.** 
   ![Read](http://progressed.io/bar/50?title=read) 
 
-* **Evicted by *Matthew Desmond*.** 
-  ![Read](http://progressed.io/bar/5?title=read) 
-
 * **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.** 
   ![Read](http://progressed.io/bar/20?title=read) 
 
