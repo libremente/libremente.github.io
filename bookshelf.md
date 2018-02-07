@@ -43,10 +43,6 @@ a quick look-see ;)
   ![Read](http://progressed.io/bar/70?title=read) 
   A new perspective on the history of the ''Sapiens''. 
 
-* **Bar Sport by *Stefano Benni*.**
-  ![Read](http://progressed.io/bar/90?title=read) 
-  An Italian comedy. 
-
 * **Chaos Monkeys by *Antonio Garcia Martinez*.**
   ![Read](http://progressed.io/bar/10?title=read) 
   Looks like fun and deep at the same time. How does the *ads* world work?
@@ -66,6 +62,9 @@ a quick look-see ;)
 
 
 ## Past reads
+* **Bar Sport by *Stefano Benni*.**
+  An Italian comedy. 
+
 * **Zero to One by *Peter Thiel*.**
   Peter Thiel, one of the most interesting figures of the Valley and his book.
   What to say. Peter stresses his vision that creating a monopoly is the only
