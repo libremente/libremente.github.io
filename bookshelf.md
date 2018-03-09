@@ -27,7 +27,7 @@ a quick look-see ;)
 
 ### *Non-technical*
 * **The hard thing about hard things by *Ben Horowitz*.**
-  ![Read](http://progressed.io/bar/50?title=read) 
+  ![Read](http://progressed.io/bar/60?title=read) 
   This books offers a new perspective on "how to handle hard things". Very very
   fluent to read, it feels easy to empathize with the author and the reader can
   mostly feel the pain he suffered going through the events that made him one of the
