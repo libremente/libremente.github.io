@@ -37,7 +37,7 @@ a quick look-see ;)
   ![Read](http://progressed.io/bar/70?title=read) 
 
 * **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.** 
-  ![Read](http://progressed.io/bar/20?title=read) 
+  ![Read](http://progressed.io/bar/30?title=read) 
 
 * **Sapiens by *Yuval Noah Harari*.**   
   ![Read](http://progressed.io/bar/70?title=read) 
