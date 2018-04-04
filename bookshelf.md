@@ -48,7 +48,7 @@ a quick look-see ;)
   Looks like fun and deep at the same time. How does the *ads* world work?
 
 * **I, Robot by *Isaac Asimov*.**
-  ![Read](http://progressed.io/bar/40?title=read) 
+  ![Read](http://progressed.io/bar/53?title=read) 
   A must.
 
 
