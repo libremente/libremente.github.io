@@ -43,14 +43,9 @@ a quick look-see ;)
   ![Read](http://progressed.io/bar/70?title=read) 
   A new perspective on the history of the ''Sapiens''. 
 
-* **Chaos Monkeys by *Antonio Garcia Martinez*.**
-  ![Read](http://progressed.io/bar/10?title=read) 
-  Looks like fun and deep at the same time. How does the *ads* world work?
-
 * **I, Robot by *Isaac Asimov*.**
   ![Read](http://progressed.io/bar/53?title=read) 
   A must.
-
 
 
 ## Next on the list
@@ -60,8 +55,16 @@ a quick look-see ;)
 * **Crossing the chasm by *Geoffrey A. Moore*.**  
   Another must, still on the shelf...
 
+* **Chaos Monkeys by *Antonio Garcia Martinez*.**
+  Looks like fun and deep at the same time. How does the *ads* world work?
+
+* **Evicted**
+
 
 ## Past reads
+* **Le Tre del mattino by *Gianrico Carofiglio*.**
+  A few hours read. A great fiction, a pleasure to read.
+
 * **Bar Sport by *Stefano Benni*.**
   An Italian comedy. 
 
