@@ -47,6 +47,10 @@ a quick look-see ;)
   ![Read](http://progressed.io/bar/53?title=read) 
   A must.
 
+* **Il processo by *Franz Kafka*.**
+  ![Read](http://progressed.io/bar/43?title=read) 
+  A must.
+
 
 ## Next on the list
 * **Business Model Generation by *Alex Osterwalder*.**  
