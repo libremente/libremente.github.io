@@ -49,7 +49,7 @@ a quick look-see ;)
 
 * **Il processo by *Franz Kafka*.**
   ![Read](http://progressed.io/bar/63?title=read) 
-  A must.
+  Another must.
 
 
 ## Next on the list
