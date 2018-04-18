@@ -14,7 +14,7 @@ a quick look-see ;)
 ## Currently on the go
 ### *Technical*
 * **Next Generation Video Coding and Streaming by *Bing*.**     
-  ![Read](http://progressed.io/bar/30?title=read) 
+  ![Read](http://progressed.io/bar/40?title=read) 
   Technical read on HEVC and adaptive streaming techniques.
 
 * **High Performance Browser Networking by *Ilya Grigorik*.**  
