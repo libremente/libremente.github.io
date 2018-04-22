@@ -22,7 +22,7 @@ a quick look-see ;)
   A book on how to understand and tweak performances for the web. 
 
 * **The Art of Deception by *Kevin D. Mitnick*.**
-  ![Read](http://progressed.io/bar/35?title=read) 
+  ![Read](http://progressed.io/bar/40?title=read) 
   A book on social engineering from the one and only. 
 
 ### *Non-technical*
