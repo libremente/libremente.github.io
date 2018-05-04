@@ -64,6 +64,9 @@ a quick look-see ;)
 
 * **Evicted**
 
+* **Clean code** by Robert C. Martin
+  Seems like a must for a software engineer.
+
 
 ## Past reads
 * **Le Tre del mattino by *Gianrico Carofiglio*.**
