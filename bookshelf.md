@@ -64,9 +64,12 @@ a quick look-see ;)
 
 * **Evicted**
 
-* **Clean code** by Robert C. Martin
+* **Clean code by *Robert C. Martin*.**
   Seems like a must for a software engineer.
 
+* **Clean Architecture: A Craftsman's Guide to Software Structure and
+  Design by *Robert C. Martin*.**
+  Another must, still on the bookshelf. 
 
 ## Past reads
 * **Le Tre del mattino by *Gianrico Carofiglio*.**
