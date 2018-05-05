@@ -59,17 +59,20 @@ a quick look-see ;)
 * **Crossing the chasm by *Geoffrey A. Moore*.**  
   Another must, still on the shelf...
 
-* **Chaos Monkeys by *Antonio Garcia Martinez*.**
+* **Chaos Monkeys by *Antonio Garcia Martinez*.** 
   Looks like fun and deep at the same time. How does the *ads* world work?
 
 * **Evicted**
 
-* **Clean code by *Robert C. Martin*.**
+* **Clean code by *Robert C. Martin*.** 
   Seems like a must for a software engineer.
 
 * **Clean Architecture: A Craftsman's Guide to Software Structure and
-  Design by *Robert C. Martin*.**
+  Design by *Robert C. Martin*.** 
   Another must, still on the bookshelf. 
+
+* **High Performance Web Sites: Essential Knowledge for Front-End
+  Engineers by *Steve Souders*.**
 
 ## Past reads
 * **Le Tre del mattino by *Gianrico Carofiglio*.**
