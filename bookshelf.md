@@ -21,6 +21,10 @@ a quick look-see ;)
   ![Read](http://progressed.io/bar/40?title=read) 
   A book on how to understand and tweak performances for the web. 
 
+* **High Performance Web Sites by *Steve Souders*.**  
+  ![Read](http://progressed.io/bar/0?title=read) 
+  14 Steps to Faster-Loading Web Sites 
+
 * **The Art of Deception by *Kevin D. Mitnick*.**
   ![Read](http://progressed.io/bar/40?title=read) 
   A book on social engineering from the one and only. 
