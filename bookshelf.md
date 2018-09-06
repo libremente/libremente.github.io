@@ -100,6 +100,10 @@ a quick look-see ;)
   A nice read, I could extrapolate some insightful techniques that made me
   think. 
 
+* **Elon Musk: Tesla, SpaceX, and the Quest for a fantastic future by *Ashlee
+  Vance*.**
+  Very interesting book on the one and only Elon Musk. Very pleasant to read. 
+
 * **Le Tre del mattino by *Gianrico Carofiglio*.**
   A few hours read. A great fiction, a pleasure to read.
 
