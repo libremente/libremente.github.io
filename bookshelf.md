@@ -13,6 +13,23 @@ a quick look-see ;)
 
 ## Currently on the go
 ### *Technical*
+* **Clean Code by *Robert Martin*.**
+  ![Read](http://progressed.io/bar/20?title=read) 
+  The book to read.
+
+* **Two Scoops of Django by *Greenfield*.**
+  ![Read](http://progressed.io/bar/40?title=read) 
+  The book to read if you want to improve your Django skills. Very nice layout,
+  very nice read. 
+
+* **Front-end Web Development: The Big Nerd Ranch Guide**
+  ![Read](http://progressed.io/bar/5?title=read) 
+  A comprehensive read on the front-end development world.
+
+* **Don't Make Me Think by *Steve Krug*.**
+  ![Read](http://progressed.io/bar/50?title=read) 
+  Interesting overview on the usability of web and mobile apps.
+
 * **Next Generation Video Coding and Streaming by *Bing*.**     
   ![Read](http://progressed.io/bar/50?title=read) 
   Technical read on HEVC and adaptive streaming techniques.
@@ -79,6 +96,10 @@ a quick look-see ;)
   Engineers by *Steve Souders*.**
 
 ## Past reads
+* **Pragmatic Programmer by *A. Hunt and D. Thomas*.**
+  A nice read, I could extrapolate some insightful techniques that made me
+  think. 
+
 * **Le Tre del mattino by *Gianrico Carofiglio*.**
   A few hours read. A great fiction, a pleasure to read.
 
