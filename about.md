@@ -17,7 +17,7 @@ Let's try to dissect it.
 Probably there can't be a better name to describe me and this blog.
 
 # About me 
-I ~am a PhD candidate~ hold a PhD in Computer Engineering, passionate about disruptive technologies and their
+I ~~am a PhD candidate~~ hold a PhD in Computer Engineering, passionate about disruptive technologies and their
 application in the real world. I am particularly fond on learning technologies
 as you may get from the posts.
 
