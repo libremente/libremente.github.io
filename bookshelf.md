@@ -59,9 +59,6 @@ a quick look-see ;)
   mostly feel the pain he suffered going through the events that made him one of the
   most influential person in the whole Valley. 
 
-* **The power of habit by *Charles Duhigg*.** 
-  ![Read](http://progressed.io/bar/70?title=read) 
-
 * **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.** 
   ![Read](http://progressed.io/bar/30?title=read) 
 
@@ -79,8 +76,7 @@ a quick look-see ;)
 
 
 ## Next on the list
-* **Business Model Generation by *Alex Osterwalder*.**  
-  Another classic book in the startup world. 
+* ~~**Business Model Generation by *Alex Osterwalder*.**~~
 
 * **Crossing the chasm by *Geoffrey A. Moore*.**  
   Another must, still on the shelf...
@@ -101,6 +97,9 @@ a quick look-see ;)
   Engineers by *Steve Souders*.**
 
 ## Past reads
+* **The power of habit by *Charles Duhigg*.** 
+  Easy to read book showing the power of habits. 
+
 * **Pragmatic Programmer by *A. Hunt and D. Thomas*.**
   A nice read, I could extrapolate some insightful techniques that made me
   think. 
