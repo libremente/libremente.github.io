@@ -47,6 +47,11 @@ a quick look-see ;)
   A book on social engineering from the one and only. 
 
 ### *Non-technical*
+* **Prisoners of Geography by *Tim Marshall*.**
+  ![Read](http://progressed.io/bar/80?title=read) 
+  One of the best book I found about geo-politics. Easy to read, highly
+  suggested.
+
 * **The hard thing about hard things by *Ben Horowitz*.**
   ![Read](http://progressed.io/bar/60?title=read) 
   This books offers a new perspective on "how to handle hard things". Very very
