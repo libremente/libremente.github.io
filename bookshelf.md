@@ -84,7 +84,7 @@ a quick look-see ;)
 * **Chaos Monkeys by *Antonio Garcia Martinez*.** 
   Looks like fun and deep at the same time. How does the *ads* world work?
 
-* **Evicted**
+* ~~**Evicted**~~
 
 * **Clean code by *Robert C. Martin*.** 
   Seems like a must for a software engineer.
