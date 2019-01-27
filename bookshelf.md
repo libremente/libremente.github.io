@@ -26,10 +26,6 @@ a quick look-see ;)
   ![Read](http://progressed.io/bar/5?title=read) 
   A comprehensive read on the front-end development world.
 
-* **Don't Make Me Think by *Steve Krug*.**
-  ![Read](http://progressed.io/bar/50?title=read) 
-  Interesting overview on the usability of web and mobile apps.
-
 * **Next Generation Video Coding and Streaming by *Bing*.**     
   ![Read](http://progressed.io/bar/50?title=read) 
   Technical read on HEVC and adaptive streaming techniques.
@@ -94,6 +90,10 @@ a quick look-see ;)
   Engineers by *Steve Souders*.**
 
 ## Past reads
+
+* **Don't Make Me Think by *Steve Krug*.**
+  Interesting overview on the usability of web and mobile apps.
+
 * **The power of habit by *Charles Duhigg*.** 
   Easy to read book showing the power of habits. 
 
