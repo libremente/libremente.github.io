@@ -13,9 +13,48 @@ a quick look-see ;)
 
 ## Currently on the go
 ### *Technical*
+* **The Art of Deception by *Kevin D. Mitnick*.**
+  ![Read](http://progressed.io/bar/40?title=read) 
+  A book on social engineering from the one and only. 
+
+### *Non-technical*
+
+* **The Open Organization by *Jim Whitehurst*.**
+  ![Read](http://progressed.io/bar/30?title=read) 
+  RedHat!
+
+* **Con i piedi nel fango by *Gianrico Carofiglio*.**
+  ![Read](http://progressed.io/bar/30?title=read) 
+
+* **Open Government by *Lathrop & Ruma*.**
+  ![Read](http://progressed.io/bar/90?title=read) 
+  How can we open up governments?
+
+* **Prisoners of Geography by *Tim Marshall*.**
+  ![Read](http://progressed.io/bar/90?title=read) 
+  One of the best book I found about geo-politics. Easy to read, highly
+  suggested.
+
+* **Sapiens by *Yuval Noah Harari*.**   
+  ![Read](http://progressed.io/bar/70?title=read) 
+  A new perspective on the history of the ''Sapiens''. 
+
+* **I, Robot by *Isaac Asimov*.**
+  ![Read](http://progressed.io/bar/53?title=read) 
+  A must.
+
+* **Il processo by *Franz Kafka*.**
+  ![Read](http://progressed.io/bar/65?title=read) 
+  Another must.
+
+## Stalled
+
 * **Clean Code by *Robert Martin*.**
   ![Read](http://progressed.io/bar/20?title=read) 
   The book to read.
+
+* **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.** 
+  ![Read](http://progressed.io/bar/30?title=read) 
 
 * **Two Scoops of Django by *Greenfield*.**
   ![Read](http://progressed.io/bar/40?title=read) 
@@ -38,39 +77,6 @@ a quick look-see ;)
   ![Read](http://progressed.io/bar/0?title=read) 
   14 Steps to Faster-Loading Web Sites 
 
-* **The Art of Deception by *Kevin D. Mitnick*.**
-  ![Read](http://progressed.io/bar/40?title=read) 
-  A book on social engineering from the one and only. 
-
-### *Non-technical*
-* **Prisoners of Geography by *Tim Marshall*.**
-  ![Read](http://progressed.io/bar/80?title=read) 
-  One of the best book I found about geo-politics. Easy to read, highly
-  suggested.
-
-* **The hard thing about hard things by *Ben Horowitz*.**
-  ![Read](http://progressed.io/bar/60?title=read) 
-  This books offers a new perspective on "how to handle hard things". Very very
-  fluent to read, it feels easy to empathize with the author and the reader can
-  mostly feel the pain he suffered going through the events that made him one of the
-  most influential person in the whole Valley. 
-
-* **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.** 
-  ![Read](http://progressed.io/bar/30?title=read) 
-
-* **Sapiens by *Yuval Noah Harari*.**   
-  ![Read](http://progressed.io/bar/70?title=read) 
-  A new perspective on the history of the ''Sapiens''. 
-
-* **I, Robot by *Isaac Asimov*.**
-  ![Read](http://progressed.io/bar/53?title=read) 
-  A must.
-
-* **Il processo by *Franz Kafka*.**
-  ![Read](http://progressed.io/bar/65?title=read) 
-  Another must.
-
-
 ## Next on the list
 * ~~**Business Model Generation by *Alex Osterwalder*.**~~
 
@@ -90,6 +96,15 @@ a quick look-see ;)
   Engineers by *Steve Souders*.**
 
 ## Past reads
+
+* **Ingredienti per una vita di formidabili passioni by *Luis Sepulveda*.**
+  What a great book!
+  
+* **The hard thing about hard things by *Ben Horowitz*.**
+  This books offers a new perspective on "how to handle hard things". Very very
+  fluent to read, it feels easy to empathize with the author and the reader can
+  mostly feel the pain he suffered going through the events that made him one of the
+  most influential person in the whole Valley. 
 
 * **Don't Make Me Think by *Steve Krug*.**
   Interesting overview on the usability of web and mobile apps.
