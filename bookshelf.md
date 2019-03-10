@@ -32,7 +32,7 @@ a quick look-see ;)
 
 * **Prisoners of Geography by *Tim Marshall*.**
   ![Read](http://progressed.io/bar/90?title=read) 
-  One of the best book I found about geo-politics. Easy to read, highly
+  One of the best books about geo-politics. Easy to read, highly
   suggested.
 
 * **Sapiens by *Yuval Noah Harari*.**   
