@@ -5,7 +5,7 @@ description: "This is what I read."
 header-img: "img/book-bg.jpg"
 ---
 
-# <center>My 2018 in books</center>
+# <center>My 2019 in books</center>
 I read. I love to. A whole lot. I space from deeply technical books to
 comedies. This list will probably be more useful for me to keep track of my
 reading habits and the pace but if you want some hints you are free to take
