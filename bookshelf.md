@@ -19,12 +19,14 @@ a quick look-see ;)
 
 ### *Non-technical*
 
-* **The Open Organization by *Jim Whitehurst*.**
-  ![Read](http://progressed.io/bar/30?title=read) 
-  RedHat!
 
-* **Con i piedi nel fango by *Gianrico Carofiglio*.**
+* **L'arte della guerra by *Sun Tzu*.**
   ![Read](http://progressed.io/bar/30?title=read) 
+  What's a warrior? 
+
+* **The Open Organization by *Jim Whitehurst*.**
+  ![Read](http://progressed.io/bar/60?title=read) 
+  RedHat!
 
 * **Open Government by *Lathrop & Ruma*.**
   ![Read](http://progressed.io/bar/90?title=read) 
@@ -96,6 +98,9 @@ a quick look-see ;)
   Engineers by *Steve Souders*.**
 
 ## Past reads
+
+* **Con i piedi nel fango by *Gianrico Carofiglio*.**
+  Pleasant read, on politics and ethics. 
 
 * **Ingredienti per una vita di formidabili passioni by *Luis Sepulveda*.**
   What a great book!
