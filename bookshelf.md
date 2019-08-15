@@ -33,11 +33,6 @@ a quick look-see ;)
   ![Read](http://progressed.io/bar/90?title=read) 
   How can we open up governments?
 
-* **Prisoners of Geography by *Tim Marshall*.**
-  ![Read](http://progressed.io/bar/90?title=read) 
-  One of the best books about geo-politics. Easy to read, highly
-  suggested.
-
 * **Sapiens by *Yuval Noah Harari*.**   
   ![Read](http://progressed.io/bar/70?title=read) 
   A new perspective on the history of the ''Sapiens''. 
@@ -99,6 +94,10 @@ a quick look-see ;)
   Engineers by *Steve Souders*.**
 
 ## Past reads
+
+* **Prisoners of Geography by *Tim Marshall*.**
+  One of the best books about geo-politics. Easy to read, highly
+  suggested.
 
 * **Estate Fredda by *Gianrico Carofiglio*.**
   A great novel in Bari.
