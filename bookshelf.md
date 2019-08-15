@@ -95,6 +95,9 @@ a quick look-see ;)
 
 ## Past reads
 
+* **Novecento by *Alessandro Baricco*.**
+  Just a must.
+
 * **Prisoners of Geography by *Tim Marshall*.**
   One of the best books about geo-politics. Easy to read, highly
   suggested.
