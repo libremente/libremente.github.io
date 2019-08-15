@@ -19,6 +19,7 @@ a quick look-see ;)
 
 ### *Non-technical*
 
+* **The Art of Community by *Jono Bacon*.**
 
 * **L'arte della guerra by *Sun Tzu*.**
   ![Read](http://progressed.io/bar/30?title=read) 
@@ -98,6 +99,13 @@ a quick look-see ;)
   Engineers by *Steve Souders*.**
 
 ## Past reads
+
+* **Estate Fredda by *Gianrico Carofiglio*.**
+  A great novel in Bari.
+
+* **Vita di Adriano Olivetti**
+
+* **The subtle art of not giving a fuck by *Mark Mason*.**
 
 * **Con i piedi nel fango by *Gianrico Carofiglio*.**
   Pleasant read, on politics and ethics. 
