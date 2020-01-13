@@ -87,9 +87,6 @@ Let's see how this goes.
   Design by *Robert C. Martin*.** 
   Another must, still on the bookshelf. 
 
-* **High Performance Web Sites: Essential Knowledge for Front-End
-  Engineers by *Steve Souders*.**
-
 ## Past reads
 
 * **Novecento by *Alessandro Baricco*.**
