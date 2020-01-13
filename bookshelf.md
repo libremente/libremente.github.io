@@ -5,74 +5,71 @@ description: "This is what I read."
 header-img: "img/book-bg.jpg"
 ---
 
-# <center>My 2019 in books</center>
-I read. I love to. A whole lot. I space from deeply technical books to
-comedies. This list will probably be more useful for me to keep track of my
-reading habits and the pace but if you want some hints you are free to take
-a quick look-see ;)
+# <center>My 2020 in books</center>
+For 2020 I am planning to read a lot more. 
+By reading 50 pages per day during the workweek and 30 per day on the weekends
+that averages at around 40pp/day. This means that I should be able to read
+around 280pp/week. Estimating to have around 250/book (very conservative
+but looking at my shelf this is what I have right now) I should be able to read
+more than 50 books in this year. 
+In my new year's resolution I set the threshold at 40 but, since I'd like to
+stay conservative about it, let's say 35.
+Let's see how this goes. 
 
 ## Currently on the go
 ### *Technical*
-* **The Art of Deception by *Kevin D. Mitnick*.**
-  ![Read](http://progressed.io/bar/40?title=read) 
+1. **The Art of Deception by *Kevin D. Mitnick*.**
   A book on social engineering from the one and only. 
 
 ### *Non-technical*
 
-* **The Art of Community by *Jono Bacon*.**
+2. **The Art of Community by *Jono Bacon*.**
 
-* **L'arte della guerra by *Sun Tzu*.**
-  ![Read](http://progressed.io/bar/30?title=read) 
+3. **L'arte della guerra by *Sun Tzu*.**
   What's a warrior? 
 
-* **The Open Organization by *Jim Whitehurst*.**
-  ![Read](http://progressed.io/bar/60?title=read) 
+4. **The Open Organization by *Jim Whitehurst*.**
   RedHat!
 
-* **Open Government by *Lathrop & Ruma*.**
-  ![Read](http://progressed.io/bar/90?title=read) 
+5. **Open Government by *Lathrop & Ruma*.**
   How can we open up governments?
 
-* **Sapiens by *Yuval Noah Harari*.**   
-  ![Read](http://progressed.io/bar/70?title=read) 
+6. **Sapiens by *Yuval Noah Harari*.**   
   A new perspective on the history of the ''Sapiens''. 
 
-* **I, Robot by *Isaac Asimov*.**
-  ![Read](http://progressed.io/bar/53?title=read) 
+7. **I, Robot by *Isaac Asimov*.**
   A must.
 
-* **Il processo by *Franz Kafka*.**
-  ![Read](http://progressed.io/bar/65?title=read) 
+8. **Il processo by *Franz Kafka*.**
   Another must.
+
+9. **Atlante delle Crisi Mondiali by *Sergio Romano*.**
+
+10. **Storia dell'Italia Moderna. Capitolo XI by *Giorgio Candeloro*.**
+
+11. **The Game by *Alessandro Baricco*.**
 
 ## Stalled
 
 * **Clean Code by *Robert Martin*.**
-  ![Read](http://progressed.io/bar/20?title=read) 
   The book to read.
 
 * **Memorie dal sottosuolo by *Fyodor Dostoyevsky*.** 
-  ![Read](http://progressed.io/bar/30?title=read) 
 
 * **Two Scoops of Django by *Greenfield*.**
-  ![Read](http://progressed.io/bar/40?title=read) 
   The book to read if you want to improve your Django skills. Very nice layout,
   very nice read. 
 
 * **Front-end Web Development: The Big Nerd Ranch Guide**
-  ![Read](http://progressed.io/bar/5?title=read) 
   A comprehensive read on the front-end development world.
 
 * **Next Generation Video Coding and Streaming by *Bing*.**     
-  ![Read](http://progressed.io/bar/50?title=read) 
   Technical read on HEVC and adaptive streaming techniques.
 
 * **High Performance Browser Networking by *Ilya Grigorik*.**  
-  ![Read](http://progressed.io/bar/40?title=read) 
   A book on how to understand and tweak performances for the web. 
 
 * **High Performance Web Sites by *Steve Souders*.**  
-  ![Read](http://progressed.io/bar/0?title=read) 
   14 Steps to Faster-Loading Web Sites 
 
 ## Next on the list
