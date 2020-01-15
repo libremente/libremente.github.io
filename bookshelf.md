@@ -17,11 +17,8 @@ stay conservative about it, let's say 35.
 Let's see how this goes. 
 
 ## Currently on the go
-### *Technical*
 1. **The Art of Deception by *Kevin D. Mitnick*.**
   A book on social engineering from the one and only. 
-
-### *Non-technical*
 
 2. **The Art of Community by *Jono Bacon*.**
 
@@ -42,8 +39,6 @@ Let's see how this goes.
 
 8. **Il processo by *Franz Kafka*.**
   Another must.
-
-9. **Atlante delle Crisi Mondiali by *Sergio Romano*.**
 
 10. **Storia dell'Italia Moderna. Capitolo XI by *Giorgio Candeloro*.**
 
@@ -81,13 +76,15 @@ Let's see how this goes.
 * **Chaos Monkeys by *Antonio Garcia Martinez*.** 
   Looks like fun and deep at the same time. How does the *ads* world work?
 
-* ~~**Evicted**~~
-
 * **Clean Architecture: A Craftsman's Guide to Software Structure and
   Design by *Robert C. Martin*.** 
   Another must, still on the bookshelf. 
 
-## Past reads
+## Completed (2020)
+
+9. ~**Atlante delle Crisi Mondiali by *Sergio Romano*.**~
+
+## Past reads (2019)
 
 * **Novecento by *Alessandro Baricco*.**
   Just a must.
