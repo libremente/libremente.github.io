@@ -42,6 +42,8 @@ Let's see how this goes.
 
 10. **Storia dell'Italia Moderna. Capitolo XI by *Giorgio Candeloro*.**
 
+12. **Factfullness by *Hans Rosling*.**
+
 ## Stalled
 
 * **Clean Code by *Robert Martin*.**
