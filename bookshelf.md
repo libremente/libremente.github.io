@@ -78,7 +78,7 @@ Let's see how this goes.
   Design by *Robert C. Martin*.** 
   Another must, still on the bookshelf. 
 
-## Completed (2020)
+## Completed (2)
 
 9. ~~**Atlante delle Crisi Mondiali by *Sergio Romano*.**~~
 
