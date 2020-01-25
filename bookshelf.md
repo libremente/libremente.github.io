@@ -42,8 +42,6 @@ Let's see how this goes.
 
 10. **Storia dell'Italia Moderna. Capitolo XI by *Giorgio Candeloro*.**
 
-11. **The Game by *Alessandro Baricco*.**
-
 ## Stalled
 
 * **Clean Code by *Robert Martin*.**
@@ -82,7 +80,9 @@ Let's see how this goes.
 
 ## Completed (2020)
 
-9. ~**Atlante delle Crisi Mondiali by *Sergio Romano*.**~
+9. ~~**Atlante delle Crisi Mondiali by *Sergio Romano*.**~~
+
+11. ~~**The Game by *Alessandro Baricco*.**~~
 
 ## Past reads (2019)
 
