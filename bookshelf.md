@@ -40,9 +40,10 @@ Let's see how this goes.
 8. **Il processo by *Franz Kafka*.**
   Another must.
 
-10. **Storia dell'Italia Moderna. Capitolo XI by *Giorgio Candeloro*.**
+9. **Storia dell'Italia Moderna. Capitolo XI by *Giorgio Candeloro*.**
 
-12. **Factfullness by *Hans Rosling*.**
+10. **Scansatevi dalla luce by *James Williams*.**
+
 
 ## Stalled
 
@@ -85,6 +86,8 @@ Let's see how this goes.
 9. ~~**Atlante delle Crisi Mondiali by *Sergio Romano*.**~~
 
 11. ~~**The Game by *Alessandro Baricco*.**~~
+
+12. ~~**Factfullness by *Hans Rosling*.**~~
 
 ## Past reads (2019)
 
