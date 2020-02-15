@@ -42,7 +42,6 @@ Let's see how this goes.
 
 9. **Storia dell'Italia Moderna. Capitolo XI by *Giorgio Candeloro*.**
 
-10. **Scansatevi dalla luce by *James Williams*.**
 
 
 ## Stalled
@@ -81,13 +80,15 @@ Let's see how this goes.
   Design by *Robert C. Martin*.** 
   Another must, still on the bookshelf. 
 
-## Completed (2)
+## Completed (4)
 
 9. ~~**Atlante delle Crisi Mondiali by *Sergio Romano*.**~~
 
 11. ~~**The Game by *Alessandro Baricco*.**~~
 
 12. ~~**Factfullness by *Hans Rosling*.**~~
+
+10. **Scansatevi dalla luce by *James Williams*.**
 
 ## Past reads (2019)
 
