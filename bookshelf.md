@@ -88,7 +88,7 @@ Let's see how this goes.
 
 12. ~~**Factfullness by *Hans Rosling*.**~~
 
-10. **Scansatevi dalla luce by *James Williams*.**
+10. ~~**Scansatevi dalla luce by *James Williams*.**~~
 
 ## Past reads (2019)
 
