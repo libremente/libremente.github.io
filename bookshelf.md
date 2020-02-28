@@ -80,7 +80,7 @@ Let's see how this goes.
   Design by *Robert C. Martin*.** 
   Another must, still on the bookshelf. 
 
-## Completed (4)
+## Completed (5)
 
 9. ~~**Atlante delle Crisi Mondiali by *Sergio Romano*.**~~
 
@@ -89,6 +89,8 @@ Let's see how this goes.
 12. ~~**Factfullness by *Hans Rosling*.**~~
 
 10. ~~**Scansatevi dalla luce by *James Williams*.**~~
+
+13. ~~**La guerra dei mondi by *H.G. Wells*.**~~
 
 ## Past reads (2019)
 
