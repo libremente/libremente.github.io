@@ -42,8 +42,6 @@ Let's see how this goes.
 
 9. **Storia dell'Italia Moderna. Capitolo XI by *Giorgio Candeloro*.**
 
-
-
 ## Stalled
 
 * **Clean Code by *Robert Martin*.**
@@ -67,7 +65,6 @@ Let's see how this goes.
 * **High Performance Web Sites by *Steve Souders*.**  
   14 Steps to Faster-Loading Web Sites 
 
-## Next on the list
 * ~~**Business Model Generation by *Alex Osterwalder*.**~~
 
 * **Crossing the chasm by *Geoffrey A. Moore*.**  
@@ -96,7 +93,7 @@ Let's see how this goes.
 
 15. **Le fabbriche di bene by *Adriano Olivetti*.**
 
-## Past reads (2019)
+## 2019 - Reads (19)
 
 * **Novecento by *Alessandro Baricco*.**
   Just a must.
