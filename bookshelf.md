@@ -82,19 +82,19 @@ Let's see how this goes.
 
 ## Completed (7)
 
-9. ~~**Atlante delle Crisi Mondiali by *Sergio Romano*.**~~
+9. **Atlante delle Crisi Mondiali by *Sergio Romano*.**
 
-11. ~~**The Game by *Alessandro Baricco*.**~~
+11. **The Game by *Alessandro Baricco*.**
 
-12. ~~**Factfullness by *Hans Rosling*.**~~
+12. **Factfullness by *Hans Rosling*.**
 
-10. ~~**Scansatevi dalla luce by *James Williams*.**~~
+10. **Scansatevi dalla luce by *James Williams*.**
 
-13. ~~**La guerra dei mondi by *H.G. Wells*.**~~
+13. **La guerra dei mondi by *H.G. Wells*.**
 
-14. ~~**Ai lavoratori by *Adriano Olivetti*.**~~
+14. **Ai lavoratori by *Adriano Olivetti*.**
 
-15. ~~**Le fabbriche di bene by *Adriano Olivetti*.**~~
+15. **Le fabbriche di bene by *Adriano Olivetti*.**
 
 ## Past reads (2019)
 
