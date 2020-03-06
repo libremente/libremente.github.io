@@ -25,9 +25,6 @@ Let's see how this goes.
 3. **L'arte della guerra by *Sun Tzu*.**
   What's a warrior? 
 
-4. **The Open Organization by *Jim Whitehurst*.**
-  RedHat!
-
 5. **Open Government by *Lathrop & Ruma*.**
   How can we open up governments?
 
@@ -77,7 +74,7 @@ Let's see how this goes.
   Design by *Robert C. Martin*.** 
   Another must, still on the bookshelf. 
 
-## Completed (7)
+## Completed (8)
 
 9. **Atlante delle Crisi Mondiali by *Sergio Romano*.**
 
@@ -92,6 +89,8 @@ Let's see how this goes.
 14. **Ai lavoratori by *Adriano Olivetti*.**
 
 15. **Le fabbriche di bene by *Adriano Olivetti*.**
+
+4. **The Open Organization by *Jim Whitehurst*.**
 
 ## 2019 - Reads (19)
 
