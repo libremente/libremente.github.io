@@ -92,6 +92,8 @@ Let's see how this goes.
 
 4. **The Open Organization by *Jim Whitehurst*.**
 
+16. **L'Ingenuo by *Voltaire*.**
+
 ## 2019 - Reads (19)
 
 * **Novecento by *Alessandro Baricco*.**
