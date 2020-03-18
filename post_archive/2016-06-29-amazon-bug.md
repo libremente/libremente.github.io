@@ -3,6 +3,7 @@ layout:     post
 title:      "Amazon: search bug?"
 date:       2016-06-29 00:00:00
 author:     "surF"
+published: false
 header-img: "img/post-bg-bug.jpg"
 ---
 
