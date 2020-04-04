@@ -22,9 +22,6 @@ Let's see how this goes.
 
 2. **The Art of Community by *Jono Bacon*.**
 
-3. **L'arte della guerra by *Sun Tzu*.**
-  What's a warrior? 
-
 5. **Open Government by *Lathrop & Ruma*.**
   How can we open up governments?
 
@@ -74,7 +71,11 @@ Let's see how this goes.
   Design by *Robert C. Martin*.** 
   Another must, still on the bookshelf. 
 
-## Completed (9)
+## Completed (11)
+
+1. **Non tacerò by *Luigi Ciotti*.**
+
+3. **L'arte della guerra by *Sun Tzu*.**
 
 9. **Atlante delle Crisi Mondiali by *Sergio Romano*.**
 
