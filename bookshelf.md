@@ -71,7 +71,7 @@ Let's see how this goes.
   Design by *Robert C. Martin*.** 
   Another must, still on the bookshelf. 
 
-## Completed (11)
+## Completed (12)
 
 1. **Non tacerò by *Luigi Ciotti*.**
 
@@ -94,6 +94,8 @@ Let's see how this goes.
 4. **The Open Organization by *Jim Whitehurst*.**
 
 16. **L'Ingenuo by *Voltaire*.**
+
+17. **Il banchiere anarchico by *Pessoa*.**
 
 ## 2019 - Reads (19)
 
